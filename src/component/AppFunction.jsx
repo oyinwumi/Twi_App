@@ -11,7 +11,7 @@ import Iconh from "../assets/iconh.svg";
 const AppFunction = () => {
   return (
     <div className="font-font2 lg:px-20 px-8 pt-10 pb-20 text-[#110F0F] ">
-        <h2 className="text-center text-3xl lg:w-[887px] w-full uppercase mx-auto font-bold">Embark on an exciting linguistic adventure tailor-made for curious young minds</h2>
+        <h2 className="lg:text-center text-3xl lg:w-[887px] w-full uppercase lg:mx-auto font-bold">Embark on an exciting linguistic adventure tailor-made for curious young minds</h2>
         <p className="mx-auto mt-2 text-xl lg:w-[1400px] w-full">Our mobile app is a colorful gateway to the fascinating world of Twi language and culture. Designed with kids in mind, every tap opens a door to a vibrant learning experience.</p>
         
   <div className="w-full flex flex-wrap gap-7 mt-10 lg:mx-[9%] mx-auto pb-10 text-[#FFFFFF]">
