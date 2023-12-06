@@ -10,7 +10,7 @@ import Iconh from "../assets/iconh.svg";
 
 const AppFunction = () => {
   return (
-    <div className="font-font2 lg:px-20 px-8 pt-10 pb-20 text-[#110F0F] ">
+    <div className="font-font2 lg:px-20 px-8 pt-10 text-[#110F0F] ">
         <h2 className="lg:text-center text-3xl lg:w-[887px] w-full uppercase lg:mx-auto font-bold">Embark on an exciting linguistic adventure tailor-made for curious young minds</h2>
         <p className="mx-auto mt-2 text-xl lg:w-[1400px] w-full">Our mobile app is a colorful gateway to the fascinating world of Twi language and culture. Designed with kids in mind, every tap opens a door to a vibrant learning experience.</p>
         
@@ -75,7 +75,7 @@ const AppFunction = () => {
         <div>
         <p className="mx-auto mt-2 text-xl lg:w-[1400px] w-full">📲 Ready to Learn Twi Language? Let the adventure begin! Download our app now and open the door to a world where language learning is as exciting as a treasure hunt!</p>
         </div>
-        <div className="flex gap-10 items-center my-10 lg:mx-[25%] mx-auto w-full " >
+        <div className="flex gap-10 items-center my-10 justify-center  " >
              <button className="text-sm bg-[#B01D75] text-center  text-white w-[295px] h-[56px] border-yellow rounded-lg md:text-[22px] font-semibold font-font2 ">Download For Android</button>
              <button className= " text-sm bg-[#B01D75] text-center text-white w-[295px] h-[56px] border-yellow rounded-lg md:text-[22px] font-semibold font-font2">Download For Iphone</button>
            </div>  
